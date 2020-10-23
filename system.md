@@ -1,5 +1,5 @@
 ```
-WIndows
+Windows
 
 C:\Windows\System32\winevt\Logs\
 							    |
