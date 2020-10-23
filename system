@@ -9,6 +9,7 @@ C:\Windows\System32\winevt\Logs\
 							    |-- Microsoft-Windows-PowerShell%4Operational.evtx
 							    |-- Microsoft-Windows-Sysmon%4Operational.evtx
 
+
 Linux / Unix
 
 /var/
