@@ -1,3 +1,4 @@
+```
 WIndows
 
 C:\Windows\System32\winevt\Logs\
@@ -73,3 +74,4 @@ Linux / Unix
 	 |-- run/utmp (binary file)
 			    > $ last -f /var/run/utmp
 			    > $ utmpdump /var/run/utmp
+```
